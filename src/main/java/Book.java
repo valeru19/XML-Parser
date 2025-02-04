@@ -1,4 +1,5 @@
 public class Book {
+    // инициализируем поля книги
     private String id;
     private String title;
     private String author;
