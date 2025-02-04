@@ -1,0 +1,14 @@
+<library>
+    <book id="1">
+        <title>Java Programming</title>
+        <author>James Gosling</author>
+        <genre>Technical</genre>
+        <price>45.99</price>
+    </book>
+    <book id="2">
+        <title>Effective Java</title>
+        <author>Joshua Bloch</author>
+        <genre>Technical</genre>
+        <price>39.99</price>
+    </book>
+</library>
